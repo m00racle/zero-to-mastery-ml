@@ -12,3 +12,4 @@ env
 # Model files
 *.pkl
 *.joblib
+images/heart-disease-data2.png
