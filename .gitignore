@@ -13,3 +13,6 @@ env
 *.pkl
 *.joblib
 images/heart-disease-data2.png
+
+# vscode folder
+.vscode/*
